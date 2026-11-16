@@ -1,0 +1,10 @@
+>> tune_pi
+
+CURRENT LOOP   Kp = 0.131   Ki = 14.4   (speed 1000 Hz, margin 62 deg)
+   model now:  Kp = 0.200   Ki = 192.0
+VOLTAGE LOOP   Kp = 3.713   Ki = 1057.8   (speed 100 Hz, margin 60 deg)
+   model now:  Kp = 4.200   Ki = 265.0
+BUS DIP for a 1.2 A load step: 0.43 V
+
+GRID LOOP      Kp = 0.293   Ki = 3.33   (speed 10.0 Hz, margin 45 deg)
+   planned:    Kp = 0.200   Ki = 2.50
